@@ -1,0 +1,31 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="N5bldA6MTXoxR2bEG6wn">
+    <mxGraphModel dx="678" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-7" edge="1" parent="1" source="KZLe2iLkSKZykBXH_EBW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KZLe2iLkSKZykBXH_EBW-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-2" parent="1" style="ellipse;fillColor=strokeColor;html=1;rounded=0;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="310" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-3" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;rounded=0;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="310" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-9" edge="1" parent="1" source="KZLe2iLkSKZykBXH_EBW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KZLe2iLkSKZykBXH_EBW-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;fontColor=#000000;" value="Buka daftar peralatan" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-11" edge="1" parent="1" source="KZLe2iLkSKZykBXH_EBW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KZLe2iLkSKZykBXH_EBW-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KZLe2iLkSKZykBXH_EBW-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=0;labelBackgroundColor=default;" value="Liat informasi Ketersediaan" vertex="1">
+          <mxGeometry height="60" width="120" x="265" y="315" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
