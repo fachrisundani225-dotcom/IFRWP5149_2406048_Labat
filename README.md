@@ -18,5 +18,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a></p>
 
+
+
+- 🔭 I'm currently working on **Pengenalan lingkunagn praktikum dan kelas pemodelan UML**
+
 - 🔭 I'm currently working on **UNIFIED MODELLING LANGUAGE (UML)**
 
