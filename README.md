@@ -24,3 +24,11 @@
 
 - 🔭 I'm currently working on **UNIFIED MODELLING LANGUAGE (UML)**
 
+- 🔭 I'm currently working on **Use Case Diagram dan Use Case Description**
+
+- 🔭 I'm currently working on **USE CASE DIAGRAM LANJUTAN: GENERALIZATION DAN COLLABORATION**
+
+
+
+
+
