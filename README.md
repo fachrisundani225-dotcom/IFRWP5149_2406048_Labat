@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/GitHub-fachrisundani-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/fachri_sndni">
-    <img src="https://img.shields.io/badge/Instagram-fachri__sndni-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Instagram-fachri__sndni-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://id.wikipedia.org/wiki/Berkas:Instagram_icon.png)" />
   </a>
   <a href="https://discord.gg/Orangorangan">
     <img src="https://img.shields.io/badge/Discord-Orangorangan-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -61,18 +61,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fachrisundani&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=fachrisundani&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fachrisundani&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
-<!-- FOOTER ANIMASI -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%" />
-</p>
