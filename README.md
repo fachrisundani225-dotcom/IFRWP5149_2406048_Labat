@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=fachrisundani&label=Profile%20Views&color=b3001b&labelColor=050505&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=fachrisundani225-dotcom&label=Profile%20Views&color=b3001b&labelColor=050505&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -30,6 +30,7 @@
 
 - 🎓 **Praktikum Analisis dan Desain Berorientasi Objek**
 - 🆔 **NIM: 2406048**
+- 📂 **Repository Tugas:** [IFRWP5149_2406048_Labat](https://github.com/fachrisundani225-dotcom/IFRWP5149_2406048_Labat)
 - 🌱 Sedang belajar **Pengenalan Lingkungan Praktikum dan Kakas Pemodelan UML**
 - 💻 Tertarik dengan Web Development dan Programming
 - 📫 Cara menghubungi saya: **Hubungi admin**
@@ -75,12 +76,12 @@
 <div align="center">
 
 <a href="https://github.com/fachrisundani225-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-fachrisundani-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/GitHub-fachrisundani225--dotcom-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
 </a>
 <a href="https://instagram.com/fachri_sndni">
   <img src="https://img.shields.io/badge/Instagram-fachri__sndni-b3001b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" />
 </a>
-<a href="https://discord.gg/uchiha00522">
+<a href="https://discord.gg/Orangorangan">
   <img src="https://img.shields.io/badge/Discord-Orangorangan-b3001b?style=for-the-badge&logo=discord&logoColor=white&labelColor=050505" />
 </a>
 
@@ -92,12 +93,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fachrisundani&show_icons=true&hide_border=false&border_color=450000&border_radius=12&bg_color=050505&title_color=ff1a1a&icon_color=ff1a1a&text_color=e5e5e5" />
-<img height="170" src="https://streak-stats.demolab.com/?user=fachrisundani&hide_border=false&border=450000&background=050505&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=e5e5e5&dates=999999" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fachrisundani225-dotcom&show_icons=true&hide_border=false&border_color=450000&border_radius=12&bg_color=050505&title_color=ff1a1a&icon_color=ff1a1a&text_color=e5e5e5" />
+<img height="170" src="https://streak-stats.demolab.com/?user=fachrisundani225-dotcom&hide_border=false&border=450000&background=050505&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=e5e5e5&dates=999999" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fachrisundani&bg_color=050505&color=ff1a1a&line=b3001b&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fachrisundani225-dotcom&bg_color=050505&color=ff1a1a&line=b3001b&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="95%" />
 
 </div>
 
