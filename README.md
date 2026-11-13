@@ -14,7 +14,7 @@
 <!-- TYPING TEXT -->
 <div align="center">
 
-<a href="https://github.com/fachrisundani">
+<a href="https://github.com/fachrisundani225-dotcom">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=FF1A1A&background=00000000&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Fachri+Sundani;Praktikum+Analisis+dan+Desain+Berorientasi+Objek;Learning+UML+%7C+Use+Case+%7C+Activity+Diagram;NEVER+GIVE+UP!+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </a>
 
@@ -74,13 +74,13 @@
 
 <div align="center">
 
-<a href="https://github.com/fachrisundani">
-  <img src="https://img.shields.io/badge/GitHub-fachrisundani-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
+<a href="https://github.com/fachrisundani225-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-fachrisundani-dotcom-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
 </a>
 <a href="https://instagram.com/fachri_sndni">
   <img src="https://img.shields.io/badge/Instagram-fachri__sndni-b3001b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" />
 </a>
-<a href="https://discord.gg/Orangorangan">
+<a href="https://discord.gg/uchiha00522">
   <img src="https://img.shields.io/badge/Discord-Orangorangan-b3001b?style=for-the-badge&logo=discord&logoColor=white&labelColor=050505" />
 </a>
 
