@@ -75,7 +75,7 @@
 <div align="center">
 
 <a href="https://github.com/fachrisundani225-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-fachrisundani-dotcom-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
+  <img src="https://img.shields.io/badge/GitHub-fachrisundani-b3001b?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" />
 </a>
 <a href="https://instagram.com/fachri_sndni">
   <img src="https://img.shields.io/badge/Instagram-fachri__sndni-b3001b?style=for-the-badge&logo=instagram&logoColor=white&labelColor=050505" />
