@@ -136,7 +136,12 @@ Hubungan akhir: Mahasiswa — Lihat jadwal kuliah; Admin Akademik — Kelola jad
 - ✓ Sumber dapat dibuka dan disunting; ekspor sesuai sumber terkini.
 
 ## 6. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Pustaka UML tidak langsung muncul di draw.io | Mengaktifkan More Shapes, memilih UML dan UML 2.5, lalu Apply |
+| 2 | Sulit membedakan kesalahan pada diagram SIA yang sengaja dibuat keliru | Memeriksa diagram dengan prinsip konsistensi satu per satu (aktor, bentuk, hubungan, judul) sehingga empat kesalahan ditemukan |
+| 3 | Bingung menjelaskan mengapa asosiasi bukan alur proses | Merujuk pada definisi: asosiasi hanya menyatakan partisipasi aktor, sedangkan urutan kegiatan dijelaskan pada use case description atau activity diagram |
+| 4 | Aktor sempat tidak sejajar atau menempel di batas sistem | Aktor dipindah ke area luar kotak batas sistem dengan jarak yang jelas |
 
 ## 7. Kesimpulan
 Notasi dasar use case diagram (aktor, use case, batas sistem, dan asosiasi) berhasil diterapkan pada kasus LAB dan diperbaiki pada kasus SIA. Empat kesalahan notasi pada diagram SIA berhasil ditemukan dan dikoreksi beserta alasannya. Konsistensi nama, penempatan elemen, dan versi berkas dijaga sehingga artefak kedua kasus tidak tertukar.

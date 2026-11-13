@@ -144,7 +144,14 @@ Tugas melanjutkan kasus SIA Pertemuan 4; keterampilan baru hanya penulisan skena
 - ✓ Berkas diagram P04 tidak diubah.
 
 ## 6. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Penomoran Skenario Alternative sempat mengulang dari 1 | Penomoran dilanjutkan dari langkah terakhir Skenario Normal |
+| 2 | Satu langkah sempat memuat dua aksi | Langkah dipecah menjadi beberapa langkah, masing-masing satu aksi |
+| 3 | Aksi aktor tertulis pada kolom Respon sistem (dan sebaliknya) | Setiap langkah diperiksa ulang terhadap kolom yang benar |
+| 4 | Bingung menuliskan include dan extend tanpa menyalin langkahnya | Hanya ditulis sebagai langkah rujukan ke tabel use case terkait, lengkap dengan condition dan extension point untuk extend |
+| 5 | Tabel skenario ditulis dalam berkas `.drawio` sehingga versi berkas bertambah (LAB sampai v04) karena revisi berulang | Setiap revisi dicatat pada commit; versi akhir yang dikumpulkan disesuaikan dengan ketentuan penamaan |
+| 6 | Tugas SIA tidak memiliki contoh jawaban | Mengikuti struktur Tabel 5.1 dan aturan generalization pada jobsheet, lalu memeriksa dengan checklist |
 
 ## 7. Kesimpulan
 Dua belas tabel skenario LAB berhasil ditelaah terhadap diagram acuan dengan penelusuran relasi, dan tujuh tabel skenario SIA berhasil disusun dengan struktur yang sama. Relasi diagram dipetakan konsisten ke langkah skenario: include menjadi langkah rujukan, extend menjadi cabang bersyarat, generalization menjadi tabel umum dan khusus, dan collaboration hanya disebut pada keterangan. Tabel skenario ini menjadi masukan activity diagram pada Pertemuan 6.

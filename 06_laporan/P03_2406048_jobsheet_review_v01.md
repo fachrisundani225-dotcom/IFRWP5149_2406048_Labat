@@ -217,7 +217,13 @@ Deskripsi SIA-UC04 (validasi), SIA-UC05 (unduh bukti), dan SIA-UC06 (persetujuan
 - ✓ Kebutuhan yang belum dimodelkan ditandai, bukan dianggap selesai.
 
 ## 6. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Sulit membedakan include dan extend | Memakai tes dari jobsheet: include untuk perilaku yang selalu terjadi (pemeriksaan ketersediaan dan validasi KRS), extend untuk perilaku opsional bersyarat (cetak dan unduh bukti) |
+| 2 | Arah panah include dan extend sempat terbalik | Aturan dihafalkan: include dari penyerta ke yang disertakan, extend dari tambahan ke dasar; panah dicek ulang pada diagram |
+| 3 | Tabel model analisis (Markdown) kolomnya bergeser karena nama aktor yang terdiri dari dua kata terpisah | Teks tabel dirapikan dan nama aktor ditulis dalam satu sel; sebaiknya diperiksa ulang pada pratinjau Markdown |
+| 4 | Menentukan kapan sesuatu menjadi use case dan kapan hanya alur alternatif | Memakai prinsip dari jobsheet: validasi gagal dan penolakan cukup sebagai alur alternatif, sedangkan extend perlu alasan pemodelan yang jelas |
+| 5 | Berkas deskripsi SIA sempat salah ketik pada nama (`deskriosi`) | Nama berkas diperbaiki agar konsisten dengan pola penamaan |
 
 ## 7. Kesimpulan
 Use case diagram dan use case description berhasil disusun untuk kasus LAB (7 use case) dan SIA (6 use case) dengan keterlacakan ke kebutuhan. Relasi include dipakai untuk perilaku yang selalu terjadi (pemeriksaan ketersediaan dan validasi KRS), sedangkan extend dipakai untuk perilaku bersyarat (cetak bukti dan unduh bukti) lengkap dengan condition dan extension point. Pengujian konsistensi tiga situasi menunjukkan diagram dan deskripsi saling sesuai.

@@ -4,10 +4,10 @@
 
 </div>
 
-<!-- ASTA BLACK FORM -->
+<!-- ASTA BLACK FORM (External GIF) -->
 <div align="center">
 
-<img src="https://placehold.co/900x400/050505/ff1a1a?text=%E2%98%98%EF%B8%8F+ASTA+BLACK+FORM+%E2%98%98%EF%B8%8F&font=montserrat" width="85%" alt="Asta Black Form" />
+<img src="https://media.tenor.com/8f1p7aZ0w5AAAAAj/asta-black-form.gif" width="45%" alt="Asta Black Form" />
 
 </div>
 

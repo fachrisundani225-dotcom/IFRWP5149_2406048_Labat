@@ -250,7 +250,14 @@ Berkas: `P04_2406048_SIA_usecase_v01.drawio`/`.png`, `P04_2406048_SIA_deskripsi_
 - ✓ Keterlambatan dan denda ditandai sebagai pertanyaan terbuka.
 
 ## 6. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Arah segitiga generalization sempat salah (menunjuk aktor khusus) | Segitiga kosong dipasang pada ujung yang menempel ke aktor atau use case umum |
+| 2 | Asosiasi UC01 dan UC03 sempat digambar dua kali (dari Mahasiswa dan Dosen) | Garis duplikat dihapus; asosiasi digambar sekali dari Peminjam, sedangkan asosiasi khusus Mahasiswa ke UC05 dipertahankan |
+| 3 | Collaboration sempat terlihat seperti use case biasa | Garis elips diubah menjadi putus-putus, namanya disamakan dengan use case, dan ID LAB-CO / SIA-CO dicatat terpisah |
+| 4 | Diagram menjadi padat dan garis saling bersilang setelah elemen baru ditambahkan | Posisi aktor dan use case diatur ulang secara bertahap, mengikuti lima tahap penggambaran |
+| 5 | Menjaga agar elemen Pertemuan 3 tidak berubah | Pekerjaan dilakukan pada salinan berkas P04 dan berkas P03 tidak ditimpa |
+| 6 | Keterlambatan dan denda tidak ada aturannya | Dicatat sebagai pertanyaan terbuka pada berkas kebutuhan, tidak dikarang sebagai aturan |
 
 ## 7. Kesimpulan
 Diagram kumulatif LAB (5 aktor, 12 use case, 2 collaboration, 17 hubungan) dan SIA (18 hubungan) berhasil dibuat dengan mempertahankan hasil Pertemuan 3. Generalization aktor dipakai pada Peminjam dan Civitas Akademika, generalization use case pada pengelolaan data (peralatan dan mahasiswa), dan collaboration dipakai untuk merealisasikan use case utama. Use case description LAB-UC11 dan SIA-UC08 konsisten dengan diagram.

@@ -162,7 +162,15 @@ Berkas di `04_model_analisis/P06/SIA`, penamaan `P06_2406048_SIA_activity_<nama>
 - ✓ Berkas P04 dan dokumen P05 tidak diubah; sumber dapat dibuka dan ekspor sesuai sumber.
 
 ## 6. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Sulit menentukan swimlane untuk langkah yang dilakukan sistem dan petugas sekaligus | Kembali ke tabel skenario: kolom Kegiatan menjadi swimlane aktor dan kolom Respon sistem menjadi swimlane Sistem |
+| 2 | Lupa memberi guard pada salah satu alur keluar decision | Setiap decision diperiksa satu per satu sampai semua alur keluar berlabel dan guard saling lepas |
+| 3 | Garis alur menyilang melewati beberapa swimlane sehingga diagram sulit dibaca | Letak action dan merge diatur ulang, dan titik tekuk garis dirapikan |
+| 4 | Ragu antara memakai merge atau join untuk menyatukan alur | Aturan jobsheet: join hanya untuk proses paralel dari fork, merge untuk cabang decision |
+| 5 | Pada Activity Pengembalian, action aksesori tidak ada di skenario P5 | Action diberi keterangan *unsur proses baru* sesuai ketentuan jobsheet |
+| 6 | Activity Kelola Data memiliki banyak cabang sehingga diagram sangat panjang | Cabang tambah, ubah, hapus disusun berurutan lalu digabung pada satu merge |
+| 7 | Diagram SIA harus memuat empat swimlane dan fork–join sekaligus | Alur ditulis dulu sebagai daftar langkah dengan penelusuran ke SIA-UC08 dan SIA-UC09, baru digambar |
 
 ## 7. Kesimpulan
 Tujuh activity diagram LAB berhasil diturunkan dari tabel skenario Pertemuan 5 dengan swimlane sesuai aktor, decision berguard lengkap, merge, serta fork dan join pada Activity Pengembalian. Pada kasus SIA, activity diagram Input Nilai sampai Lihat KHS dirancang dengan empat swimlane, decision kelengkapan nilai, dan satu pasang fork–join. Keterlacakan dari kebutuhan, use case, skenario, hingga activity diagram terjaga, dan unsur di luar skenario diberi penanda.

@@ -93,7 +93,12 @@ Langkah: membuat diagram kosong dan memberi judul *Latihan kakas — S-ORI-01*; 
 - ✓ Arsip pengumpulan dapat dibuka dan tidak memuat kredensial atau data pribadi nyata.
 
 ## 7. Kendala dan Solusi
-[isi kendala dan solusi]
+| No | Kendala | Solusi |
+|:--:|---|---|
+| 1 | Penulisan NIM pada nama berkas salah (sempat tertulis 2406089 pada berkas review dan laporan singkat) | Berkas di-rename sesuai NIM yang benar (2406048) dan dicatat pada commit |
+| 2 | Konektor pada diagram latihan terlihat menempel ke elemen, tetapi belum benar-benar terhubung | Elemen digeser untuk memastikan garis ikut bergerak, lalu konektor dikaitkan ulang ke tepi elemen |
+| 3 | Berkas ekspor PNG sempat tidak sama dengan sumber setelah elemen digeser | Diagram diekspor ulang setelah perubahan terakhir sehingga sumber dan PNG sama |
+| 4 | Repository Git baru perlu disiapkan | Repository diinisialisasi dan commit awal dibuat setelah struktur folder siap |
 
 ## 8. Kesimpulan
 Workspace praktikum untuk kasus LAB dan SIA telah disiapkan dengan struktur, aturan penamaan, dan versi yang konsisten. Fitur dasar draw.io (membuat kanvas, menempatkan elemen, menghubungkan, menyimpan sumber, mengekspor, dan membuka ulang) berhasil dipraktikkan. Diagram latihan berstatus belum divalidasi sehingga tidak dianggap model analisis, dan folder `04_model_analisis` dan `05_model_desain` sengaja dibiarkan kosong pada pertemuan ini.
